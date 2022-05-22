@@ -6,3 +6,7 @@ My solution to Cats Vs Dogs Redux Kaggle compitition. Was able to minimise loss 
 
 Refer to below link for more information on the competition.
 https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview
+
+The Code folder contains 2 files<br>
+![DogsVsCats Test.ipynb](Code/DogsVsCats Test.ipynb) --> This contains testing with multiple pre-trained models <br>
+![DogsVsCatsFinal.ipynb](Code/DogsVsCatsFinal.ipynb) --> This contains final model with ResNet50 and VGG16
