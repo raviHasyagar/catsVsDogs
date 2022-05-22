@@ -4,7 +4,7 @@
 
 My solution to Cats Vs Dogs Redux Kaggle compitition. Was able to minimise loss to 0.07629.
 
-Refer to below link for more information on the competition.
+Refer to below link for more information on the competition<br>
 https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview
 
 The Code folder contains 2 files<br>
